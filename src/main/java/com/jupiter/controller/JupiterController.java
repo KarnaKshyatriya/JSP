@@ -17,7 +17,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.jupiter.entity.Jupiter;
 import com.jupiter.service.JupiterService;
 
-@Controller
+@RestController
 public class JupiterController {
 
 	
